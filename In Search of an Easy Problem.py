@@ -1,3 +1,5 @@
+#Technocup 2019 - Elimination Round 1
+
 n = int(input())
 lst = [int(x) for x in input().split()]
 
