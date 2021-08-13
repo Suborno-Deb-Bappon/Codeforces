@@ -1,3 +1,4 @@
+#Codeforces Round 653 (Div. 3)
 n = int(input())
 def func(a,b,c):
     if c-(c%a)+b <= c:
