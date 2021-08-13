@@ -1,3 +1,5 @@
+#Codeforces Round 322 (Div. 2)
+
 a,b =[int(x) for x in input().split()]
 if a>0 and b>0:
     s = min(a,b)
