@@ -1,3 +1,5 @@
+#Codeforces Round 277 (Div. 2)
+
 n = int(input())
 if n%2 == 0:
     a = int(n/2)
